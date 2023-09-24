@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIC", "TCPIC\TCPIC.csproj", "{F91E6FD3-DEBA-469F-A98E-99A7899619D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91E6FD3-DEBA-469F-A98E-99A7899619D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91E6FD3-DEBA-469F-A98E-99A7899619D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91E6FD3-DEBA-469F-A98E-99A7899619D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91E6FD3-DEBA-469F-A98E-99A7899619D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB16329-E7DE-4DD6-B2DF-72744F81473B}
+	EndGlobalSection
+EndGlobal
